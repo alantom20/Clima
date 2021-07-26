@@ -1,16 +1,8 @@
 # clima_flutter
 
-A new Flutter application.
 
-## Getting Started
+可查詢全世界的天氣
 
-This project is a starting point for a Flutter application.
+![device-2021-07-26-101648](https://user-images.githubusercontent.com/44021177/126924420-398a8d3f-0847-41d6-bf0c-8cebfc900d8b.png) ![device-2021-07-26-101802 (1)](https://user-images.githubusercontent.com/44021177/126924431-0f0d6a8d-619c-4454-bad7-8ab05baeef51.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
